@@ -4,7 +4,7 @@ Super quick and dirty python code to see text content in the a PVA bot zip file.
 
 - **getcontent.py** - get topic name and topic content 
 
-- **getcontent.py** - get topic name and topic triggers
+- **gettriggers.py** - get topic name and topic triggers
 
 💡 **Warning**: May or may not work ;)
 
