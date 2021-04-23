@@ -1,6 +1,8 @@
-# Extract text and triggers from a PVA zip files
+# Extract text and triggers from a PVA zip file
 
-Super quick and dirty python code to see what's in the a PVA bot zip file. Uses some simple regex queries to find content.
+Super quick and dirty python code to see text content in the a PVA bot zip file. Uses some simple regex queries to find content.
+**getcontent.py** - get topic name and topic content 
+**getcontent.py** - get topic name and topic triggers
 
 💡 **Warning**: May or may not work ;)
 
