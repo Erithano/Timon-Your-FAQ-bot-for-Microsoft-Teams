@@ -6,7 +6,7 @@ Super quick and dirty python code to see text content in a PVA bot zip file. Use
 
 - **gettriggers.py** - get topic name and topic triggers
 
-💡 **Warning**: May or may not work ;)
+💡 **Warning**: This has not been tested in other environments - it may or may not work on your computer ;)
 
 ## How to extract content from a Power Virtual Agent bot:
 
