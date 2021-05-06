@@ -4,7 +4,7 @@ Timon is available in [Dutch](https://github.com/Erithano/Timon-Your-FAQ-bot-for
 
 
 ### How to download 
-Go to the language folder 🡒 find the .zip-file and press it 🡒 press the "download" button
+Go to the language folder 🡒 find the .zip-file and press it 🡒 press the "download" (or "view raw") button
 
 # Coming soon!
 
