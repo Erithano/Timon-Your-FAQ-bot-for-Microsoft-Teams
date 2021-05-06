@@ -5,7 +5,7 @@ Info specifically to Timon in German.
 ## Latest zip
 
 The latest "Timon" .zip file is available in this folder.
-You can find the older zips in "older-versions".
+You can find the older zips in the folder called "older-versions".
 
 ## Coming updates
 
