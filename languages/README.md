@@ -10,10 +10,8 @@ Timon is available in [Dutch](https://github.com/Erithano/Timon-Your-FAQ-bot-for
 
 
 
-### How to download 
-Go to the language folder 🡒 find the .zip-file and press it 🡒 press the "download" (or "view raw") button
+### What do I need to download?
+You need to download two zip files (one that contains Timon and one that contains the app manifest) when you follow the [Deployment Guide](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide). Both files are specific to each language, so don't get them mixed! 
 
-# Coming soon!
-
-(text)
-TODO: Info about what languages Timon supports
+#### Here's how you download a file to your computer:
+Go to the folder of your language 🡒 find the .zip-file and press it 🡒 press the "download" (or "view raw") button.
