@@ -20,7 +20,7 @@ This repository contains all the documention and files that you need to get Timo
 ## Credits and references
 
 1. Created by Erik Olsson with the assistance of Patricia Zemer and Max Blandt
-2. Inspired by [aka.ms/AdoptBot](aka.ms/AdoptBot)
+2. Inspired by [aka.ms/AdoptBot](https://aka.ms/AdoptBot)
 4. Translated by multiple awesome Timon heroes
 5. Timon & Tima's icons are designed by [vectorpouch |
    Freepik](https://www.freepik.com/vectorpouch)
