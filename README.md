@@ -8,7 +8,7 @@ Welcome to the official Timon repository on GitHub. This repository contains all
 
 ## Meet Timon
  <img width="171" alt="timon image" align="right" src="https://user-images.githubusercontent.com/73707246/119368353-34723580-bcb3-11eb-95bc-8f1c7d351fbd.png">
-Timon [Team on] and Tima [Teama] are AdoptBots for Microsoft Teams.
+**Timon** [Team on] and **Tima** [Teama] are AdoptBots for Microsoft Teams.
 
     They each answer +100 common user questions about... Teams! 😉
     They import into your Power Virtual Agents Teams app (If you follow the guide).
