@@ -2,6 +2,7 @@
 
 [![Dutch](/media/flags/24x24/NL-Netherlands-Flag-icon.png)](/languages/dutch)
 [![English](/media/flags/24x24/GB-United-Kingdom-Flag-icon.png)](/languages/english)
+[![English](/media/flags/24x24/US-United-States-Flag-icon.png)](/languages/english)
 [![French](/media/flags/24x24/FR-France-Flag-icon.png)](/languages/french)
 [![German](/media/flags/24x24/DE-Germany-Flag-icon.png)](/languages/german)
 [![Swedish](/media/flags/24x24/SE-Sweden-Flag-icon.png)](/languages/swedish)
