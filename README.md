@@ -32,8 +32,8 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 
 ## Credits and references
 
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
-4. Timon & Tima's icons are designed by [vectorpouch |
+1. Created by Erik Olsson with the assistance of Patricia Zemer and Max Blandt
+2. Inspired by aka.ms/AdoptBot
+4. Translated by multiple awesome Timon heroes
+5. Timon & Tima's icons are designed by [vectorpouch |
    Freepik](https://www.freepik.com/vectorpouch)
