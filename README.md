@@ -18,7 +18,7 @@ This repository contains all the documention and files that you need to get Timo
 ######  ✔️ They help users send questions/feedback to your internal experts.
 ######  ✔️ And by doing all that, they can save you time and money while users learn to use Teams.
     
-It takes less than 2 hours (most use about 30-45 minutes!) to set up and deploy Timon for your own organization. Once deployed, you can tailor Timon to suit your users own needs.
+It takes less than 2 hours (most use about 30-45 minutes!) to set up and deploy Timon for your own organization. Once deployed, you can tailor Timon to suit your users' own needs.
  
  #### 🎥 See Timon in action:
  <p align="center">
