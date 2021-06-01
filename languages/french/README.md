@@ -5,7 +5,7 @@
 You need:
 
 - Timon Empty Manifest FR.zip
-- (coming soon)
+- Timon Français v.1.0.0.12.zip
 
 #### Here's how you download a file to your computer:
 
