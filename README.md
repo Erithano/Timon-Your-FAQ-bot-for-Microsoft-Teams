@@ -2,11 +2,14 @@
 
 Welcome to the official Timon repository on GitHub!
 
-This repository contains all the documention and files that you need to get Timon up and running in your organization.
+This repository contains all the documention and files you need to get Timon up and running in your organization.
 
-📖 **Looking for installation and deployment instructions?** Go to our Wiki and look at the [Deployment Guide article](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide).
+New to Timon? Check out [Timon's official page with videos at: aka.ms/Timon](https://aka.ms/Timon).
 
-💬 **Looking for the language zip files mentioned in the Deployment Guide?** All available languages are listed in the ["languages" folder](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages).
+
+📖 **Looking for installation and deployment instructions?** Go to our Wiki and follow [The Deployment Guide](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide).
+
+💬 **Looking for Timon in your language?** All available languages are listed in the ["languages" folder](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages).
 
 ## Meet Timon
  <img width="171" alt="timon image" align="right" src="https://user-images.githubusercontent.com/73707246/119368353-34723580-bcb3-11eb-95bc-8f1c7d351fbd.png">
