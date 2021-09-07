@@ -7,7 +7,7 @@
 [![German](/media/flags/24x24/DE-Germany-Flag-icon.png)](/languages/german)
 [![Swedish](/media/flags/24x24/SE-Sweden-Flag-icon.png)](/languages/swedish)
 [![Norwegian](/media/flags/24x24/NO-Norway-Flag-icon.png)](/languages/norwegian)
-[![Korean](/media/flags/24x24/NO-Norway-Flag-icon.png)](/languages/norwegian)
+[![Korean](/media/flags/24x24/KR-South-Korea-Flag-icon.png)](/languages/korean)
 
 Timon is available in [Dutch](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages/dutch), [English](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages/english), [French](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages/french), [German](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages/german), [Swedish](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages/swedish), [Norwegian](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages/norwegian) and [Korean](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages/korean).
 
