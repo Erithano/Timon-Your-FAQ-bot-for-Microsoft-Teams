@@ -1,4 +1,4 @@
-# Extract text and triggers from a PVA zip file
+# Extract text and triggers from a PVA zip file (Experimental)
 
 Super quick and dirty python code to see text content in a PVA bot zip file. Uses some simple regex queries to find content.
 
