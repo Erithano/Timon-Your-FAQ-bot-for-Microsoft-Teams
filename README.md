@@ -31,7 +31,7 @@ It takes less than 2 hours (most use about 30-45 minutes!) to set up and deploy 
 ## Credits and references
 
 1. Created by Erik Olsson with the assistance of Patricia Zemer and Max Baldt
-2. Inspired by [aka.ms/AdoptBot](https://aka.ms/AdoptBot)
+2. Inspired by the old [aka.ms/AdoptBot](https://aka.ms/AdoptBot)
 4. Each Timon (& Tima) has been translated by multiple awesome Timon heroes
 5. Timon & Tima's icons are designed by [vectorpouch |
    Freepik](https://www.freepik.com/vectorpouch)
