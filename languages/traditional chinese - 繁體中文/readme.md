@@ -1,4 +1,4 @@
-# 泰門中文版 (Timon in Traditional Chinese)!
+# 泰門中文版 - Timon in Chinese (traditional)!
 
 
 #### I'm following the [Deployment Guide](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide) - what do I need to download?
