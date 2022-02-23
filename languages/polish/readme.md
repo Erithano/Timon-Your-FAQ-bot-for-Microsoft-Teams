@@ -7,3 +7,5 @@ You need:
 Find the .zip-file and press it 🡒 press the "download" (or "view raw") button.
 
 Powodzenia!
+
+_Credit to Konrad Sagala for making Timon available in Polish_
