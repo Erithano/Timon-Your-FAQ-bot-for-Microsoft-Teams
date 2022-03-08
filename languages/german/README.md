@@ -7,4 +7,4 @@ You need:
 Find the .zip-file and press it 🡒 press the "download" (or "view raw") button.
 
 _Credits for German version of Timon:_
-_**gemacht für Deutsch von Max Baldt, Andreas Pacius und Sylvester Boehl**_
+_**gemacht für Deutsch von Max Baldt, Andreas Pacius und Sylvester Boehle**_
