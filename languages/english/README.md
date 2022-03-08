@@ -1,5 +1,9 @@
 # Timon in English!
 
-Info specifically to Timon in English.
 
-Files here should be PVA zip, documentation PDF (if there are less than maybe 5-6 files in this folder - I don't think there's going to be much more than that)
+#### I'm following the [Deployment Guide](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide) - what do I need to download?
+You need:
+* Timon Empty Manifest EN - 2022 update.zip
+* Timon - Your FAQ bot for Teams 💡 v.1.3.0.5.zip
+#### Here's how you download a file to your computer:
+Find the .zip-file and press it 🡒 press the "download" (or "view raw") button.

@@ -1,25 +1,37 @@
-# Timon!
+# Timon - your FAQ bot for Microsoft Teams 
 
-TODO: general info about this github repo, how to use it, where to find stuff etc
+Welcome to the official Timon repository on GitHub!
 
-## Getting involved
+This repository contains all the documention and files you need to get Timon up and running in your organization.
 
-This section should detail why people should get involved and describe key areas you are
-currently focusing on; e.g., trying to get feedback on features, fixing certain bugs, building
-important pieces, etc.
+New to Timon? Check out [Timon's official page with videos at: aka.ms/Timon](https://aka.ms/Timon).
 
-General instructions on _how_ to contribute should be stated with a link to [CONTRIBUTING](CONTRIBUTING.md).
 
-## Open source licensing info
+📖 **Looking for installation and deployment instructions?** Go to our Wiki and follow [The Deployment Guide](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide).
 
-1. [TERMS](TERMS.md)
-2. [LICENSE](LICENSE)
-3. [CFPB Source Code Policy](https://github.com/cfpb/source-code-policy/)
+💬 **Looking for Timon in your language?** All available languages are listed in the ["languages" folder](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages).
+
+## Meet Timon
+ <img width="171" alt="timon image" align="right" src="https://user-images.githubusercontent.com/73707246/119368353-34723580-bcb3-11eb-95bc-8f1c7d351fbd.png">
+ 
+**Timon** [Team on], or **Tima** in Swedish, are adoption bots for Microsoft Teams.
+
+######  ✔️ They each answer +100 common user questions about... Teams! 😉
+######  ✔️ They import into your Power Virtual Agents Teams app (If you follow the guide).
+######  ✔️ They help users send questions/feedback to your internal experts.
+######  ✔️ And by doing all that, they can save you time and money while users learn to use Teams.
+    
+It takes less than 2 hours (most use about 30-45 minutes!) to set up and deploy Timon for your own organization. Once deployed, you can tailor Timon to suit your users' own needs.
+ 
+ #### 🎥 See Timon in action:
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/73707246/119382155-f29cbb80-bcc1-11eb-991b-61e6c9995808.gif">
+ </p>
 
 ## Credits and references
 
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
-4. Timon & Tima's icons are designed by [vectorpouch |
+1. Created by Erik Olsson with the assistance of Patricia Zemer and Max Baldt
+2. Inspired by the old [aka.ms/AdoptBot](https://aka.ms/AdoptBot)
+4. Each Timon (& Tima) has been translated by multiple awesome Timon heroes
+5. Timon & Tima's icons are designed by [vectorpouch |
    Freepik](https://www.freepik.com/vectorpouch)
