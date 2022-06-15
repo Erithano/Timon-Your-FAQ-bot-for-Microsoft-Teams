@@ -1,4 +1,4 @@
-# Timon in italiano! (Timon in italian)
+# Timon in italiano! (Timon in Italian)
 
 
 #### Sto seguendo il [Deployment Guide](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide) - cosa devo scaricare?
