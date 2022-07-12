@@ -4,7 +4,7 @@
 #### Sto seguendo il [Deployment Guide](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide) - cosa devo scaricare?
 Hai bisogno di:
 * Timon Empty Manifest - ITA 2022.zip
-* Timon ITA 1.0.0.7.zip
+* Timon ITA 1.0.0.9.zip
 #### Here's how you download a file to your computer on GitHub:
 Find the .zip-file and press it 🡒 press the "download" (or "view raw") button.
 
