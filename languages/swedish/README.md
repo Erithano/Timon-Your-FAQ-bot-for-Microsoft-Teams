@@ -1,8 +1,8 @@
-# Tima (Timon) in Swedish!
+# Tima på svenska! (även kallad Timon). 
 
-#### I'm following the [Deployment Guide](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide) - what do I need to download?
+#### Jag följer [Deployment Guide](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide) - Vad behöver jag ladda ner?
 
-You need:
+Du behöver:
 
 - Timon Tima Empty Manifest SV.zip
 - Tima - Din FAQbot om Teams v.1.3.0.4 av Erik Olsson 🐱_👤.zip
