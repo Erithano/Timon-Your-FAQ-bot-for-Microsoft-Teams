@@ -5,7 +5,7 @@
 Du behöver:
 
 - Tima Empty Manifest SV - V2.zip
-- Tima - Din FAQbot om Teams v.1.3.0.4 av Erik Olsson 🐱_👤.zip
+- Tima - Din FAQ bot om Teams v.1.3.3 av Erik Olsson 💡.zip
 
 #### Here's how you download a file to your computer:
 
