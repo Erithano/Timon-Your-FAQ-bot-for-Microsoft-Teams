@@ -1,3 +1,4 @@
+📢 News: AI Update coming: November 2023! #StayTuned
 # Timon - your FAQ bot for Microsoft Teams 
 
 Welcome to the official Timon repository on GitHub!
