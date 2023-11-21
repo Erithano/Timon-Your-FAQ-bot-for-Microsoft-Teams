@@ -4,7 +4,7 @@
 
 Du behöver:
 
-- Tima Empty Manifest SV - V2.zip
+- Tima AI Hybrid - Empty Teams App (SV).zip
 - Tima AI Hybrid (SV) 2.0.0.2.zip
 
 #### Here's how you download a file to your computer:
