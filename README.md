@@ -1,10 +1,9 @@
-📢 **News: AI Update coming with Timon 2.0! ETA November 2023 #StayTuned**
-# Meet Timon
-# -Your AI adoption copilot for Teams, Microsoft 365 and beyond...
+📢 **News: AI✨ Update coming with Timon 2.0! ETA November 2023 #StayTuned**
+# Timon - Your adoption copilot for Teams, Microsoft 365 and beyond...
 
 Welcome to the official Timon repository on GitHub!
 
-This repository contains all the documention and files you need to get Timon up and running in your organization.
+This repository contains all the documention and files you need to get Timon 2.0 up and running with **AI✨** in your organization.
 
 New to Timon? Check out [Timon's official page with videos at: aka.ms/Timon](https://aka.ms/Timon).
 
@@ -18,7 +17,7 @@ New to Timon? Check out [Timon's official page with videos at: aka.ms/Timon](htt
  
 **Timon** [Team on], or **Tima** in Swedish, are adoption copilots for Microsoft Teams.
 
-######  ✔️ With Timon 2.0 now using AI✨, possibilites are literally endless...
+######  ✔️ With Timon 2.0 now using Azure OpenAI✨, possibilites are literally endless...
 ######  ✔️ Without AI, Timon can still answer +100 common user questions about... Teams! 😉
 ######  ✔️ They import into your Microsoft Copilot Studio (Power Virtual Agents Teams app) if you follow the guide.
 ######  ✔️ They help users send questions/feedback to your internal experts (optional - can be turned off).
