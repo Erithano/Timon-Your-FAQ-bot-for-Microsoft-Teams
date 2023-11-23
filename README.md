@@ -1,5 +1,6 @@
 📢 **News: AI Update coming with Timon 2.0! ETA November 2023 #StayTuned**
-# Timon - Your adoption copilot for Teams, Microsoft 365 and beyond... 
+# Meet Timon
+# -Your AI adoption copilot for Teams, Microsoft 365 and beyond...
 
 Welcome to the official Timon repository on GitHub!
 
