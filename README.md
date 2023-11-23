@@ -1,5 +1,5 @@
-📢 **News: AI Update coming: November 2023! #StayTuned**
-# Timon - your FAQ bot for Microsoft Teams 
+📢 **News: AI Update coming with Timon 2.0! ETA November 2023 #StayTuned**
+# Timon - Your adoption copilot for Teams, Microsoft 365 and beyond... 
 
 Welcome to the official Timon repository on GitHub!
 
@@ -15,14 +15,16 @@ New to Timon? Check out [Timon's official page with videos at: aka.ms/Timon](htt
 ## Meet Timon
  <img width="171" alt="timon image" align="right" src="https://user-images.githubusercontent.com/73707246/119368353-34723580-bcb3-11eb-95bc-8f1c7d351fbd.png">
  
-**Timon** [Team on], or **Tima** in Swedish, are adoption bots for Microsoft Teams.
+**Timon** [Team on], or **Tima** in Swedish, are adoption copilots for Microsoft Teams.
 
-######  ✔️ They each answer +100 common user questions about... Teams! 😉
-######  ✔️ They import into your Power Virtual Agents Teams app (If you follow the guide).
-######  ✔️ They help users send questions/feedback to your internal experts.
-######  ✔️ And by doing all that, they can save you time and money while users learn to use Teams.
+######  ✔️ With Timon 2.0 now using AI✨, possibilites are literally endless...
+######  ✔️ Without AI, Timon can still answer +100 common user questions about... Teams! 😉
+######  ✔️ They import into your Microsoft Copilot Studio (Power Virtual Agents Teams app) if you follow the guide.
+######  ✔️ They help users send questions/feedback to your internal experts (optional - can be turned off).
+######  ✔️ And by doing all that, they can save you time and money while users learn how to use Teams, Microsoft 365 and much more...
     
-It takes less than 2 hours (most use about 30-45 minutes!) to set up and deploy Timon for your own organization. Once deployed, you can tailor Timon to suit your users' own needs.
+It takes less than 2 hours (import takes 60 seconds on average, but most still spend about 20-40 minutes to adjust their environment) to set up and deploy Timon for your own organization. 
+Once deployed, you can tailor Timon to suit your users' specific needs or use it out of the box!
  
  #### 🎥 See Timon in action:
  <p align="center">
@@ -31,8 +33,10 @@ It takes less than 2 hours (most use about 30-45 minutes!) to set up and deploy 
 
 ## Credits and references
 
-1. Created by Erik Olsson with the assistance of Patricia Zemer and Max Baldt
-2. Inspired by the old [aka.ms/AdoptBot](https://aka.ms/AdoptBot)
-4. Each Timon (& Tima) has been translated by multiple awesome Timon heroes
+1. Created by Erik Olsson with the assistance of Max Baldt and Patricia Zemer, plus an entire community of passionate Microsoft colleagues, fans and MVPs!
+2. Timon's primary purpose was early on to help new users learn Teams during the Covid-19 pandemic, but has evolved to a popular copilot thanks to the integration of Azure OpenAI✨ 
+4. Each Timon (& Tima) have been translated by multiple awesome Timon heroes
 5. Timon & Tima's icons are designed by [vectorpouch |
    Freepik](https://www.freepik.com/vectorpouch)
+6. Not all languages have an AI version of Timon (yet). New languages may or may not become available. Feel free to get involved!
+
