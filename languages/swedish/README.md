@@ -17,5 +17,5 @@ Find the .zip-file and press it 🡒 press the "download" (or "view raw") button
 PS. Såhär ser förslagen ut i Teams när du chattar med Tima. Precis som med allt Timas innehåll kan du ändra dessa efter behag.
 Förslagen finns i "Tima AI Hybrid - Empty Teams App (SV).zip". Du hittar dem när du öppnar zip-filen i Teams-appen "Developer Portal".
 
-Uppdatering: Numera finns även ett förslag som heter "Fråga AI✨".
+**Uppdatering: Numera finns även ett förslag som heter "Fråga AI✨".**
 ![Förslag i manifest (Svenska)](https://user-images.githubusercontent.com/65014935/199282993-4aa00fe5-2b17-4982-b95a-dee33ce57f46.png)
