@@ -15,7 +15,7 @@ For the global version you need:
 * Timon AI Hybrid - Empty Teams App (EN).zip
 
 For the U.S. version you need:
-* Timon (AI Only) 1.1.0.3.zip
+* Timon (AI Only) 1.1.0.4.zip
 * Timon (AI Only) - Empty Teams App (EN-US)
 
 #### Here's how you download a file to your computer:
