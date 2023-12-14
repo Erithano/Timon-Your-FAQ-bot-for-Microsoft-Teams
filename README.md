@@ -1,21 +1,25 @@
-📢 **News: AI✨ Update coming with Timon 2.0! ETA November 2023 #StayTuned**
+📢 **Latest News: AI✨-version for French (Français) completed Dec 13th! #StayTunedForMore**
 # Timon - Your adoption copilot for Teams, Microsoft 365 and beyond...
 
-Welcome to the official Timon repository on GitHub!
+👋Welcome to the official Timon repository on GitHub!
 
 This repository contains all the documention and files you need to get Timon 2.0 up and running with **AI✨** in your organization.
 
 New to Timon? Check out [Timon's official page with videos at: aka.ms/Timon](https://aka.ms/Timon).
 
 
-📖 **Looking for installation and deployment instructions?** Go to our Wiki and follow [The Deployment Guide](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide).
+📖 **Looking for installation and deployment instructions?** Go to our [Wiki](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki) and follow [**The Deployment Guide**](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide).
 
 💬 **Looking for Timon in your language?** All available languages are listed in the ["languages" folder](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages).
+
+<img src="https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/images/timon2.0.jpg">
 
 ## Meet Timon
  <img width="171" alt="timon image" align="right" src="https://user-images.githubusercontent.com/73707246/119368353-34723580-bcb3-11eb-95bc-8f1c7d351fbd.png">
  
-**Timon** [Team on], or **Tima** in Swedish, are adoption copilots for Microsoft Teams.
+**Timon** [Team on], or **Tima** in Swedish, are adoption copilots designed for Microsoft Teams! 
+
+(_Also works on webpages, Slack and other channels_)
 
 ######  ✔️ With Timon 2.0 now using Azure OpenAI✨, possibilites are literally endless...
 ######  ✔️ Without AI, Timon can still answer +100 common user questions about... Teams! 😉
