@@ -5,7 +5,7 @@
 Du behöver:
 
 - Tima AI Hybrid - Empty Teams App (SV).zip
-- Tima AI Hybrid (SV) 2.0.0.3.zip
+- Tima AI Hybrid (SV) 2.0.0.4.zip
 
 #### Here's how you download a file to your computer:
 
