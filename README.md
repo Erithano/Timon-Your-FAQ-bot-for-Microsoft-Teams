@@ -1,4 +1,4 @@
-📢 **Latest News: AI✨-version for French (Français) completed Dec 13th! #StayTunedForMore**
+📢 **Latest News: AI✨-version for Timon in French (Français) completed! Available as of Dec 13, 2023! #StayTunedForMore**
 # Timon - Your adoption copilot for Teams, Microsoft 365 and beyond...
 
 👋Welcome to the official Timon repository on GitHub!
