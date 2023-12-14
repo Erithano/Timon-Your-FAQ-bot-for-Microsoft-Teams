@@ -5,16 +5,20 @@
 Du behöver:
 
 - Tima AI Hybrid - Empty Teams App (SV).zip
-- Tima AI Hybrid (SV) 2.0.0.2.zip
+- Tima AI Hybrid (SV) 2.0.0.3.zip
 
 #### Here's how you download a file to your computer:
 
 Find the .zip-file and press it 🡒 press the "download" (or "view raw") button.
 
+_____
+Skapad av: Erik Olsson
+______
 
+PS.
 
+Såhär ser förslagen ut i Teams när du chattar med Tima. Precis som med allt Timas innehåll kan du ändra dessa efter behag.
 
-PS. Såhär ser förslagen ut i Teams när du chattar med Tima. Precis som med allt Timas innehåll kan du ändra dessa efter behag.
 Förslagen finns i "Tima AI Hybrid - Empty Teams App (SV).zip". Du hittar dem när du öppnar zip-filen i Teams-appen "Developer Portal".
 
 **Uppdatering: Numera finns även ett förslag som heter "Fråga AI✨".**
