@@ -8,3 +8,11 @@ Find the .zip-file and press it 🡒 press the "download" (or "view raw") button
 
 _Credits for German version of Timon:_
 _**gemacht für Deutsch von Max Baldt, Andreas Pacius und Sylvester Boehle**_
+
+# NEU: Timon AI ONLY - Die 100% KI Version basierend auf Microsoft Copilot Technologie! 
+Alle Details dazu im Deployment Guide und hier: [AI✨](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/AI%E2%9C%A8) 
+Stand 02/2024 wurden die Beschränkungen, die wir in Bezug auf die AI-Only Version erwähnen, aufgehoben - Timon AI Only läuft auch außerhalb der USA! 🤖🚀
+
+Ihr braucht:
+* Timon (AI Only) 1.1.0.2 - (DE-DE).zip
+* Timon (AI Only) - Empty Teams App (DE-DE).zip
