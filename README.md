@@ -1,21 +1,19 @@
-📢 **Latest News: As of Feb 27, 2024!** 
-
-New AI✨-version for Timon in Spanish (Español)! 
-
-New AI✨-version in German (Deutsch)!
-
-New 🎬Video: How To Install Timon (Copilot Studio) **#StayTunedForMore**
-
 # Timon - Your adoption copilot for Teams, Microsoft 365 and beyond...
 
 👋Welcome to the official Timon repository on GitHub!
 
 This repository contains all the documention and files you need to get Timon 2.0 up and running with **AI✨** in your organization.
 
+📢 **Latest News: As of Feb 27, 2024** 
+
+New AI✨-version for Timon in Spanish (Español)! 
+New AI✨-version in German (Deutsch)!
+🎥 **NEW DEPLOYMENT VIDEO: [![**HOW TO INSTALL TIMON**](https://i.ytimg.com/vi/zZ60dGe-Gro/maxresdefault.jpg)](https://www.youtube.com/watch?v=zZ60dGe-Gro)
+
 New to Timon? Check out [Timon's official page with videos at: aka.ms/Timon](https://aka.ms/Timon).
 
 
-📖 **Looking for installation and deployment instructions?** Go to our [Wiki](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki) and follow [**The Deployment Guide**](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide).
+📖 **Looking for installation and deployment instructions?** Go to our [Wiki](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki) and follow [**The Deployment Guide**](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide) or watch [**HOW TO INSTALL TIMON**](https://www.youtube.com/watch?v=zZ60dGe-Gro)
 
 💬 **Looking for Timon in your language?** All available languages are listed in the ["languages" folder](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages).
 
