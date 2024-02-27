@@ -1,4 +1,11 @@
-📢 **Latest News: AI✨-version for Timon in French (Français) completed! Available as of Dec 13, 2023! #StayTunedForMore**
+📢 **Latest News: As of Feb 27, 2024!** 
+
+New AI✨-version for Timon in Spanish (Español)! 
+
+New AI✨-version in German (Deutsch)!
+
+New 🎬Video: How To Install Timon (Copilot Studio) **#StayTunedForMore**
+
 # Timon - Your adoption copilot for Teams, Microsoft 365 and beyond...
 
 👋Welcome to the official Timon repository on GitHub!
