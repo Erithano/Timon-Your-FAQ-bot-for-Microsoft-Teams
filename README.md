@@ -10,7 +10,7 @@ New AI✨-version for Timon in Spanish (Español)!
 
 New AI✨-version in German (Deutsch)!
 
-🎥 **NEW DEPLOYMENT VIDEO: [![**HOW TO INSTALL TIMON**](https://i.ytimg.com/vi/zZ60dGe-Gro/maxresdefault.jpg)](https://www.youtube.com/watch?v=zZ60dGe-Gro)
+🎥 **NEW DEPLOYMENT VIDEO:** [![**HOW TO INSTALL TIMON**](https://i.ytimg.com/vi/zZ60dGe-Gro/maxresdefault.jpg)](https://www.youtube.com/watch?v=zZ60dGe-Gro "How To Install Timon")
 
 New to Timon? Check out [Timon's official page with videos at: aka.ms/Timon](https://aka.ms/Timon).
 
