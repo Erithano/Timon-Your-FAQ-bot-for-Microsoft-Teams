@@ -6,8 +6,10 @@ This repository contains all the documention and files you need to get Timon 2.0
 
 📢 **Latest News: As of Feb 27, 2024** 
 
-New AI✨-version for Timon in Spanish (Español)! 
+New AI✨-version for Timon in Spanish (Español)!
+
 New AI✨-version in German (Deutsch)!
+
 🎥 **NEW DEPLOYMENT VIDEO: [![**HOW TO INSTALL TIMON**](https://i.ytimg.com/vi/zZ60dGe-Gro/maxresdefault.jpg)](https://www.youtube.com/watch?v=zZ60dGe-Gro)
 
 New to Timon? Check out [Timon's official page with videos at: aka.ms/Timon](https://aka.ms/Timon).
