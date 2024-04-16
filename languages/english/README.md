@@ -6,7 +6,7 @@ There are two (2) AI-versions of Timon available in English.
 
 *🌏🌍🌎 **Timon (AI Hybrid)** is available globally. Uses **your own** private Azure OpenAI service.
 
-*🌍🌎 **Timon (AI Only)** is now (Feb 2024) available most regions. Uses a Microsoft hosted Azure OpenAI service (Built-in AI in Copilot Studio) 
+*🌍🌎 **Timon (AI Only)** is, since Febuary 2024, available in most regions. Uses a Microsoft hosted Azure OpenAI service (Built-in AI in Copilot Studio) 
 
 _For a full comparison between the two versions: View the [AI✨](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/AI%E2%9C%A8) Wiki-page_
 
