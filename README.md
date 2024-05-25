@@ -1,19 +1,20 @@
 # Timon - Your adoption copilot for Teams, Microsoft 365 and beyond...
 
-👋Welcome to the official Timon repository on GitHub!
+👋Welcome to the official Timon repository on GitHub
 
-This repository contains all the documention and files you need to get Timon 2.0 up and running with **AI✨** in your organization.
+**+1 million (!) users have tried Timon.**
 
-📢 **Latest News: As of Feb 27, 2024** 
+Timon is an adoption copilot for Teams, Microsoft 365 and any Microsoft product/service. Designed for Teams as your template in Copilot Studio.   
+
+This repo contains all the documention and files you need to get Timon 2.0 up and running with **AI✨** in your organization.
+
+📢 **Latest News:** 
 
 New AI✨-version for Timon in Spanish (Español)!
 
 New AI✨-version in German (Deutsch)!
 
 🎥 **NEW DEPLOYMENT VIDEO:** [![**HOW TO INSTALL TIMON**](https://i.ytimg.com/vi/zZ60dGe-Gro/maxresdefault.jpg)](https://www.youtube.com/watch?v=zZ60dGe-Gro "How To Install Timon")
-
-New to Timon? Check out [Timon's official page with videos at: aka.ms/Timon](https://aka.ms/Timon).
-
 
 📖 **Looking for installation and deployment instructions?** Go to our [Wiki](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki) and follow [**The Deployment Guide**](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide) or watch [**HOW TO INSTALL TIMON**](https://www.youtube.com/watch?v=zZ60dGe-Gro)
 
@@ -44,10 +45,8 @@ Once deployed, you can tailor Timon to suit your users' specific needs or use it
 
 ## Credits and references
 
-1. Created by Erik Olsson with the assistance of Max Baldt and Patricia Zemer, plus an entire community of passionate Microsoft colleagues, fans and MVPs!
+1. Timon was originally created by Erik Olsson. Version 2.0 was created by Erik Olsson & Max Baldt, with special thanks to Patricia Zemer, plus an entire community of passionate Microsoft colleagues, fans and MVPs!
 2. Timon's primary purpose was early on to help new users learn Teams during the Covid-19 pandemic, but has evolved to a popular copilot thanks to the integration of Azure OpenAI✨ 
-4. Each Timon (& Tima) have been translated by multiple awesome Timon heroes
-5. Timon & Tima's icons are designed by [vectorpouch |
-   Freepik](https://www.freepik.com/vectorpouch)
-6. Not all languages have an AI version of Timon (yet). New languages may or may not become available. Feel free to get involved!
+3. Each Timon (& Tima) have been translated by multiple awesome Timon heroes
+4. Not all languages have an AI version of Timon (yet). New languages may or may not become available. Feel free to get involved!
 
