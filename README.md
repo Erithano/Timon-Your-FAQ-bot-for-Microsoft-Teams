@@ -45,7 +45,7 @@ Once deployed, you can tailor Timon to suit your users' specific needs or use it
 
 ## Credits and references
 
-1. Timon was originally created by Erik Olsson. Version 2.0 was created by Erik Olsson & Max Baldt, with special thanks to Patricia Zemer, plus an entire community of passionate Microsoft colleagues, fans and MVPs!
+1. Timon was originally created by [Erik Olsson](https://aka.ms/ErikOlsson). Version 2.0 was created by Erik Olsson & [Max Baldt](https://www.linkedin.com/in/maximilian-baldt), with special thanks to Patricia Zemer, plus an entire community of passionate Microsoft colleagues, fans and MVPs!
 2. Timon's primary purpose was early on to help new users learn Teams during the Covid-19 pandemic, but has evolved to a popular copilot thanks to the integration of Azure OpenAI✨ 
 3. Each Timon (& Tima) have been translated by multiple awesome Timon heroes
 4. Not all languages have an AI version of Timon (yet). New languages may or may not become available. Feel free to get involved!
