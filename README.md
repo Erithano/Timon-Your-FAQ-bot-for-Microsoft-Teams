@@ -1,6 +1,6 @@
 # Timon - Your adoption copilot for Teams, Microsoft 365 and beyond...
 
-👋Welcome to the official Timon repository on GitHub
+**👋Welcome to the official Timon repo on GitHub**
 
 **+1 million (!) users have tried Timon.**
 
@@ -14,7 +14,7 @@ New AI✨-version for Timon in Spanish (Español)!
 
 New AI✨-version in German (Deutsch)!
 
-🎥 **NEW DEPLOYMENT VIDEO:** [![**HOW TO INSTALL TIMON**](https://i.ytimg.com/vi/zZ60dGe-Gro/maxresdefault.jpg)](https://www.youtube.com/watch?v=zZ60dGe-Gro "How To Install Timon")
+🎥 **NEW DEPLOYMENT VIDEO:** [![**HOW TO INSTALL TIMON**](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/blob/main/media/other/yt%20timon.png)](https://www.youtube.com/watch?v=zZ60dGe-Gro "How To Install Timon")
 
 📖 **Looking for installation and deployment instructions?** 
 
@@ -25,8 +25,9 @@ Watch [**HOW TO INSTALL TIMON**](https://www.youtube.com/watch?v=zZ60dGe-Gro) or
 <img src="https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/images/timon2.0.jpg">
 
 ## Meet Timon
- <img width="171" alt="timon image" align="right" src="https://user-images.githubusercontent.com/73707246/119368353-34723580-bcb3-11eb-95bc-8f1c7d351fbd.png">
- 
+<img src="https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/blob/main/media/other/Timon%20%26%20Tima%202024%20v.5.24.png">
+<img width="171" alt="timon image" align="right" src="https://user-images.githubusercontent.com/73707246/119368353-34723580-bcb3-11eb-95bc-8f1c7d351fbd.png">
+
 **Timon** [Team on], or **Tima** in Swedish, are adoption copilots designed for Microsoft Teams! 
 
 (_Also works on webpages, Slack and other channels_)
@@ -37,7 +38,7 @@ Watch [**HOW TO INSTALL TIMON**](https://www.youtube.com/watch?v=zZ60dGe-Gro) or
 ######  ✔️ They help users send questions/feedback to your internal experts (optional - can be turned off).
 ######  ✔️ And by doing all that, they can save you time and money while users learn how to use Teams, Microsoft 365 and much more...
     
-It takes less than 2 hours (import takes 60 seconds on average, but most still spend about 20-40 minutes to adjust their environment) to set up and deploy Timon for your own organization. 
+It takes less than 59 mins (import takes 112 seconds on average, but most still spend about 20-40 minutes to adjust their environment) to set up and deploy Timon for your own organization. 
 Once deployed, you can tailor Timon to suit your users' specific needs or use it out of the box!
  
  #### 🎥 See Timon in action:
