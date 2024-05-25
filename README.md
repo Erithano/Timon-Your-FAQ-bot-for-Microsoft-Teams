@@ -4,7 +4,7 @@
 
 **+1 million (!) users have tried Timon.**
 
-Timon is an adoption copilot for Teams, Microsoft 365 and any Microsoft product/service. Designed for Teams as your template in Copilot Studio.   
+Timon is your adoption copilot and answers any question about Teams, M365 & any Microsoft product/service. Designed in Copilot Studio to be used as your template to deploy in Teams.   
 
 This repo contains all the documention and files you need to get Timon 2.0 up and running with **AI✨** in your organization.
 
