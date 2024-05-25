@@ -16,7 +16,9 @@ New AI✨-version in German (Deutsch)!
 
 🎥 **NEW DEPLOYMENT VIDEO:** [![**HOW TO INSTALL TIMON**](https://i.ytimg.com/vi/zZ60dGe-Gro/maxresdefault.jpg)](https://www.youtube.com/watch?v=zZ60dGe-Gro "How To Install Timon")
 
-📖 **Looking for installation and deployment instructions?** Go to our [Wiki](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki) and follow [**The Deployment Guide**](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide) or watch [**HOW TO INSTALL TIMON**](https://www.youtube.com/watch?v=zZ60dGe-Gro)
+📖 **Looking for installation and deployment instructions?** 
+
+Watch [**HOW TO INSTALL TIMON**](https://www.youtube.com/watch?v=zZ60dGe-Gro) or go to our [Wiki](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki) and follow [**The Deployment Guide**](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/wiki/Deployment-Guide)
 
 💬 **Looking for Timon in your language?** All available languages are listed in the ["languages" folder](https://github.com/Erithano/Timon-Your-FAQ-bot-for-Microsoft-Teams/tree/main/languages).
 
